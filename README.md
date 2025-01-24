@@ -1,4 +1,4 @@
-# prediction_model
+# Machine learning prediction_model
 events_dataset_Analyzer.ipynb:
 Analyzes event data through preprocessing, feature engineering, and machine learning. Explores relationships between event attributes and builds predictive models.
 
